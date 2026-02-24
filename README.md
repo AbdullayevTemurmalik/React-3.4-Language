@@ -1,1 +1,1 @@
-Bu kodda sizlar language {Til} larni boshqa 
+Bu kodda sizlar language {Til} larni 
