@@ -1,1 +1,1 @@
-Bu kodda sizlar language {Til} larni boshqa tillarga otqazishni 
+Bu kodda sizlar language {Til} larni boshqa tillarga otqazishni kodlarni 
